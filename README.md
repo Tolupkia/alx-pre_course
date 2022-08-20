@@ -1,2 +1,2 @@
-my first readme
-updating of readme and add of a new branch "update_script"
+my first readme.
+Updating of readme and add of a new branch "update_script"
